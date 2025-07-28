@@ -12,9 +12,9 @@
 
 - 🎓 I am in my `final year` of the **Double Degree in Computer Engineering and Computer Science** at [Universidad Rey Juan Carlos](https://www.urjc.es/).  
 - 🧠 Passionate about algorithms — especially `Backtracking`, `Divide and Conquer`, and all kinds of problem-solving techniques.  
-- 💻 I'm particularly interested in `Backend Development` and `Web Technologies`.  
-- 🔍 Always `learning new things`, whether it's new frameworks, architectures, or algorithmic paradigms.  
-- 🤝 I love working on team projects and solving real-world problems through software.  
-- 📚 Currently learning `Advanced Data Structures`, `Declarative Programming` (with `Scala` and `Prolog`), and `Concurrent Programming`.  
-- 🚀 Open to exciting `internships`, `junior roles`, or `collaboration opportunities`.  
+- 💻 Interested in `Backend Development`, `Web Technologies`, and building scalable, real-world software. 
+- 🔍 Always `learning new things`, whether it's new frameworks, architectures, or algorithmic paradigms.
+- 🤝 I love working on team projects and solving real-world problems through software.
+- 📚 Currently learning `Advanced Data Structures`, `Declarative Programming` (with `Scala` and `Prolog`), and `Concurrent Programming`.
+- 🚀 Open to exciting `internships`, `junior roles`, or `collaboration opportunities`.
 - 📄 This is [MY RESUME](https://www.linkedin.com/in/adrian-arlandis-alonso-163890232/)
